@@ -253,6 +253,7 @@
 
 .nav__bottom {
   display: flex;
+  gap: 20px;
   height: 32px;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -343,10 +344,22 @@
   }
 }
 .nav__weather-desktop {
+  margin-left: auto;
   min-width: 200px;
   height: inherit;
-  margin-left: auto;
 }
 #ww_4777a7d1c82f9 {
+  clip-path: polygon(20px 0, 100% 0, calc(100% - 20px) 100%, 0 100%);
+}
+.nav__header-date {
+  display: flex;
+  padding-left: 1.6em;
+  padding-right: 1.6em;
+  align-items: center;
+  margin-left: auto;
+  height: inherit;
+  font-size: 18px;
+  color: #fff;
+  background-color: var(--secondary-color);
   clip-path: polygon(20px 0, 100% 0, calc(100% - 20px) 100%, 0 100%);
 }
