@@ -457,6 +457,7 @@
 .footer__maincontent {
   display: block;
   margin: 0 auto;
+  padding: 40px 0;
   max-width: 1267px;
   font-size: 12px;
   text-align: center;
