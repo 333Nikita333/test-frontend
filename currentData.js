@@ -16,12 +16,8 @@ function updateDateTime() {
   const headerDateElement = document.querySelector('.nav__header-date');
   headerDateElement.textContent = `${dayOfWeek}, ${hours}:${minutes}`;
 
-  // Рассчитываем сколько миллисекунд до начала следующей минуты
   const millisecondsUntilNextMinute = (60 - currentDate.getSeconds()) * 1000;
-
-  // Устанавливаем таймер на обновление времени
   setTimeout(updateDateTime, millisecondsUntilNextMinute);
 }
 
-// Запускаем первое обновление времени
 updateDateTime();
