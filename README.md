@@ -6,7 +6,7 @@ This repository contains a completed test project for AdAstra company, involving
 
 The primary tasks for this project were as follows:
 
-1. **Header and Footer Integration**: The header and footer components from [blikk.hu](https://www.blikk.hu/) were to be integrated into the provided landing page. The integration required responsive design for both mobile and desktop devices.
+**Header and Footer Integration**: The header and footer components from [blikk.hu](https://www.blikk.hu/) were to be integrated into the provided landing page. The integration required responsive design for both mobile and desktop devices.
 
 ## Getting Started
 
