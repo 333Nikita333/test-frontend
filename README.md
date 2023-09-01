@@ -1,12 +1,12 @@
 # AdAstra Landing Page Test Project
 
-This repository contains a completed test project for AdAstra company, involving the replication and adaptation of the header and footer components from the website [blikk.hu](https://www.blikk.hu/) onto a provided [landing page](https://fex.net/uk/s/b0rxzky). The tasks included ensuring responsive design for both mobile and desktop views.
+This repository contains a completed test project for [AdAstra company](www.instagram.com/adastra_media_buying), involving the replication and adaptation of the header and footer components from the website [blikk.hu](https://www.blikk.hu/) onto a provided [landing page](https://fex.net/uk/s/b0rxzky). The tasks included ensuring responsive design for both mobile and desktop views.
 
 ## Task Overview
 
 The primary tasks for this project were as follows:
 
-**Header and Footer Integration**: The header and footer components from [blikk.hu](https://www.blikk.hu/) were to be integrated into the provided landing page. The integration required responsive design for both mobile and desktop devices.
+**Header and Footer Integration**: The header and footer components from [blikk.hu](https://www.blikk.hu/) were to be integrated into the provided [landing page](https://fex.net/uk/s/b0rxzky). The integration required responsive design for both mobile and desktop devices.
 
 ## Getting Started
 
